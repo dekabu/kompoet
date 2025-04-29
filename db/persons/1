@@ -1,0 +1,20 @@
+{
+	"Personal data": {
+		"Name": "Денис",
+		"Subname": "Буторин",
+		"Patronym": "Викторович",
+		"Pseudonym": false,
+		"City": "Можга",
+		"Bio": "Родился, живу, умру"
+	},
+	"Contacts": {
+		"Telegram": "dekabu",
+		"VK": "dekabu_free_artist",
+		"YouTube": false,
+		"StihiRu": "denissimo1",
+		"Other": []
+	},
+	"Rights": {
+		"Admin": true
+	}
+}
